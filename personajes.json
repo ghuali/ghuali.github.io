@@ -1,0 +1,42 @@
+{
+    "Sinners":[
+        {"posicion":1,
+        "nombre":"Yi sang",
+        "imagen":"https://www.prydwen.gg/static/7f2ae2a93966957376e993fe68e7812f/e098c/char_ego_1.jpg"},
+            
+        {"posicion":2,
+        "nombre":"Faust",
+        "imagen":"https://www.prydwen.gg/static/24fbf96b60baf2f6b6df7784255308ab/b3d97/char_ego_2.webp"},
+    
+        {"posicion":3,
+        "nombre":"Don quixote",
+        "imagen":"https://www.prydwen.gg/static/2dcd693cb9497b606711ef5e66d0efd2/b3d97/char_ego_3.webp"},
+        {"posicion":4,
+        "nombre":"Ryoshu",
+        "imagen":"https://www.prydwen.gg/static/82dd3fa0fb8f83c3d77e40a09b9fad30/b3d97/char_ego_4.webp"},
+        {"posicion":5,
+        "nombre":"Meursault",
+        "imagen":"https://www.prydwen.gg/static/083ea1e9fd3d5e0f900748cb57d206af/b3d97/char_ego_5.webp"},
+        {"posicion":6,
+        "nombre":"Hong lu",
+        "imagen":"https://www.prydwen.gg/static/f8d7f65a47af9e50c76cb862350594b0/e098c/char_ego_6.jpg"},
+        {"posicion":7,
+        "nombre":"Heathcliff",
+        "imagen":"https://www.prydwen.gg/static/a7a3519a204cccac744ae4b3d1a4b66b/e098c/char_ego_7.jpg"},
+        {"posicion":8,
+        "nombre":"ishmael",
+        "imagen":"https://www.prydwen.gg/static/2029ef855cb38b2e7f516de42f4f929a/e098c/char_ego_8.jpg"},
+        {"posicion":9,
+        "nombre":"Rodion",
+        "imagen":"https://www.prydwen.gg/static/74bbe5b30cd01ce72d32cced9610d89c/e098c/char_ego_9.jpg"},
+        {"posicion":11,
+        "nombre":"Sinclair",
+        "imagen":"https://www.prydwen.gg/static/1b020fdce055e322480aaa4520e356be/e098c/char_ego_11.jpg"},
+        {"posicion":12,
+        "nombre":"Outis",
+        "imagen":"https://www.prydwen.gg/static/5e82b9a8edce614ce7e53511c9de55b6/e098c/char_ego_12.jpg"},
+        {"posicion":13,
+        "nombre":"Gregor",
+        "imagen":"https://www.prydwen.gg/static/1724cf7d47b18956f5c2712cfe20a1fd/e098c/char_ego_13.jpg"}
+        ]
+    }
